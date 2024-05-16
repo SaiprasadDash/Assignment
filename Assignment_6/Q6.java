@@ -14,12 +14,3 @@ public class Q6 {
     }
 }
 
-/*
- * Output--
- * hello
- * anish
- * s1: hello s2: anish
- * s1Upper: HELLO s2Upper: ANISH
- * 0
- * 0
- */
