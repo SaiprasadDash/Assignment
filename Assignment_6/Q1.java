@@ -14,11 +14,3 @@ public class Q1 {
     }
 }
 
-/*
- * Output--
- * Memory available when new is used:7604360
- * Memory available without using new:7768048
- * true
- * false
- * false
- */
