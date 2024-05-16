@@ -14,13 +14,3 @@ public class Q8 {
     }
 }
 
-/*
- * Output--
- * Enter two strings:hello
- * anish
- * helloanish
- * helloanish
- * Enter index Number
- * 3
- * Character at index 3 is l
- */
