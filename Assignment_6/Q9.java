@@ -15,13 +15,3 @@ public class Q9 {
 
     }
 }
-/*
- * Output--
- * Enter the string:
- * Hello my name is anish
- * Enter two words
- * my
- * is
- * First occurrence of my is at index 6
- * Modified String: Hello my name anish
- */
