@@ -37,14 +37,3 @@ public class Q5 {
     }
 }
 
-/*
- * Output--
- * Enter the base string:hello
- * Enter number of concatenations:10000
- * String Builder
- * Time:13ms
- * Final String Length: 50000
- * String Buffer
- * Time:6ms
- * Final String Length: 50000
- */
