@@ -80,7 +80,7 @@ public class Q4 {
  * 5) Exit
  * 3
  * Enter index and character: 1 m
- * After modify:amish
+ * After modify:sai
  *** Menu***
  * 1) Add a substring at a specified position
  * 2) Remove a range of characters from the string.
